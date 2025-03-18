@@ -1,4 +1,4 @@
-# Formulate Expected Return for Martingale Strategy
+# Formulation of Expected Return for Martingale Strategy
 
 The **expected return** for the Martingale strategy in roulette can be formulated using probability theory and the inherent house edge. Below is the mathematical breakdown:
 
